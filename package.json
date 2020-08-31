@@ -11,10 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "portfinder": "^1.0.28",
     "sequelize": "^6.3.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.4",
-    "pm2": "^4.4.1"
+    "pm2": "^4.4.1",
+    "sequelize-cli": "^6.2.0"
   }
 }
